@@ -1,0 +1,17 @@
+<h1>angular</h1>
+<br/>
+<br/>
+<posts></posts>
+<!--<favourite [isFavourite]="post.isFavourite" [count]="post.count" (change)="onChange()"></favourite> 
+<bootstrap-panel>
+    <div class="heading">heading</div>
+    <div class="body">Body
+        <p>Content here</p>
+    </div>
+</bootstrap-panel>-->
+<!--<app-like [likesCount]="tweet.likesCount"
+            [isActive]="tweet.isLiked"></app-like>
+
+            <zippy title="Shipping details">
+                Shipping details content
+            </zippy>-->
